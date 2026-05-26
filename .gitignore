@@ -5,5 +5,5 @@ __pycache__/
 .vscode/
 .DS_Store
 
-# Ignore ALL notebooks
-*.ipynb
+# Ignore csv files
+*.csv
